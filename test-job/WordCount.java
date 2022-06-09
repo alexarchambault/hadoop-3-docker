@@ -1,5 +1,7 @@
 //> using lib "org.apache.hadoop:hadoop-client-api:3.3.3"
 
+// from https://hadoop.apache.org/docs/r3.3.3/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html
+
 import java.io.IOException;
 import java.util.StringTokenizer;
 
